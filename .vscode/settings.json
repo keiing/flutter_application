@@ -1,0 +1,15 @@
+{
+    "editor.inlineSuggest.showToolbar": "always",
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
+        "*.toml": "toml",
+        "tsclib.h": "c",
+        "libtsc.h": "c",
+        "example.h": "c",
+        "windows.h": "c",
+        "flutter_plugin_2.h": "c",
+        "format": "c"
+    },
+}
